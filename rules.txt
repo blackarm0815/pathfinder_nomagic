@@ -1,0 +1,89 @@
+ancestry
+--------
+
+dwarf
+- forge dwarf
+- rock dwarf
+- strong blooded dwarf
+
+elf
+- artic elf
+- cavern elf
+- seer elf
+- whisper elf
+- woodland elf
+
+gnome
+- chameleon gnome
+- sensate gnome
+- umbral gnome
+
+goblin
+- charhide goblin
+- irongut goblin
+- razortooth goblin
+- snow goblin
+- unbreakable goblin
+
+halfling
+- gutsy goblin
+- hillock goblin
+- nomadic halfling
+- twilight halfling
+- wildwood halfling
+
+human
+
+
+background
+----------
+
+acolyte
+acrobat
+animal whisperer
+artisan
+artist
+barkeep
+barrister
+bounty hunter
+charlatan
+criminal
+detective
+emissary
+entertainer
+farmhand
+field medic
+gambler
+gladiator
+guard
+herbalist
+hermit
+hunter
+laborer
+martial disciple
+merchant
+miner
+noble
+nomad
+prisoner
+sailor
+scholar
+scout
+street urchin
+tinker
+warrior
+
+
+class
+-----
+
+alchemist
+
+barbarian
+
+fighter
+
+ranger
+
+rogue
+
