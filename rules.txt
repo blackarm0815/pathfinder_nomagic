@@ -78,12 +78,8 @@ class
 -----
 
 alchemist
-
 barbarian
-
 fighter
-
+monk (nothing too magical)
 ranger
-
 rogue
-
